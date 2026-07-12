@@ -1,6 +1,12 @@
 # 💫 About Me:
-### 🚀 Systems & MLOps Infrastructure Engineer<br><br>- 🔭 **I’m currently working on**: Elevating the architecture of my **Credit Risk and Intelligent Prevention Platform (CRIP)**—integrating decentralized training networks and full-stack observability pipelines.<br>- 🤝 **I’m looking to collaborate on**: Production-grade **Microservices**, custom API Gateways, and high-concurrency Python backend engineering.<br>- 💬 **Ask me about**: **FastAPI** defensive architectures, Docker network isolation, database connection pool optimization, and setting up **Prometheus/Grafana** telemetry.<br>- 🌱 **I’m currently learning**: **Federated Learning (FL)** frameworks (`Flower`) to build privacy-preserving, decentralized machine learning systems for financial networks.<br>- 👯 **I’m looking for help with**: Optimizing real-time distributed data pipelines and advanced graph-based network analysis for fraud rings.<br>- ⚡ **Fun fact**: I once stress-tested a Python async inference pipeline until it sustained **219,690 continuous concurrent requests** at a strict 0% failure rate—just to see where the system would sweat.
+### Systems & MLOps Infrastructure Engineer
 
+* **Current Focus**: Scaling the architecture of the Credit Risk and Intelligent Prevention Platform (CRIP), focusing on full-stack observability pipelines and decentralized training networks.
+* **Collaboration Interests**: Enterprise-grade microservices architecture, secure API gateways, and high-concurrency Python backend systems.
+* **Technical Expertise**: FastAPI defensive architectures, containerized network isolation, database connection pooling optimization, and Prometheus/Grafana telemetry integration.
+* **Core Research**: Implementing Federated Learning frameworks to design privacy-preserving, decentralized machine learning workflows for regulated financial environments.
+* **Development Goals**: Advanced graph-based network analysis for fraud ring detection and optimizing low-latency distributed data pipelines.
+* **System Milestone**: Engineered and stress-tested an asynchronous Python inference engine capable of sustaining 219,690 continuous concurrent requests at a strict 0% failure rate.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-shukla-ds/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Asdharupur1@gmail.com) 
